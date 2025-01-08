@@ -1,4 +1,4 @@
-*Jour 4 : Recherche de Cérès 
+ * Jour 4 : Recherche de Cérès 
 "On dirait que le chef n'est pas là. Au suivant !" L'un des historiens sort un appareil et appuie sur le seul bouton qui s'y trouve. Après un bref flash, vous reconnaissez l'intérieur de la station de surveillance de Cérès !
 
 Alors que la recherche du chef continue, une petite elfe qui vit dans la station tire sur votre chemise ; elle aimerait savoir si vous pourriez l'aider avec sa recherche de mots (votre saisie de puzzle). Elle n'a qu'à trouver un mot : XMAS.
