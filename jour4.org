@@ -1,9 +1,9 @@
---- Day 4: Ceres Search ---
-"Looks like the Chief's not here. Next!" One of The Historians pulls out a device and pushes the only button on it. After a brief flash, you recognize the interior of the Ceres monitoring station!
+*Jour 4 : Recherche de Cérès 
+"On dirait que le chef n'est pas là. Au suivant !" L'un des historiens sort un appareil et appuie sur le seul bouton qui s'y trouve. Après un bref flash, vous reconnaissez l'intérieur de la station de surveillance de Cérès !
 
-As the search for the Chief continues, a small Elf who lives on the station tugs on your shirt; she'd like to know if you could help her with her word search (your puzzle input). She only has to find one word: XMAS.
+Alors que la recherche du chef continue, une petite elfe qui vit dans la station tire sur votre chemise ; elle aimerait savoir si vous pourriez l'aider avec sa recherche de mots (votre saisie de puzzle). Elle n'a qu'à trouver un mot : XMAS.
 
-This word search allows words to be horizontal, vertical, diagonal, written backwards, or even overlapping other words. It's a little unusual, though, as you don't merely need to find one instance of XMAS - you need to find all of them. Here are a few ways XMAS might appear, where irrelevant characters have been replaced with .:
+Cette recherche de mots permet aux mots d'être horizontaux, verticaux, diagonaux, écrits à l'envers ou même superposés à d'autres mots. C'est un peu inhabituel, cependant, car vous n'avez pas seulement besoin de trouver une instance de XMAS, vous devez les trouver toutes . Voici quelques exemples XMASqui peuvent apparaître, où des caractères non pertinents ont été remplacés par .:
 
 
 ..X...
@@ -11,7 +11,7 @@ This word search allows words to be horizontal, vertical, diagonal, written back
 .A..A.
 XMAS.S
 .X....
-The actual word search will be full of letters instead. For example:
+La recherche de mots réelle sera remplie de lettres. Par exemple :
 
 MMMSXXMASM
 MSAMXMSMSA
@@ -23,7 +23,7 @@ SMSMSASXSS
 SAXAMASAAA
 MAMMMXMMMM
 MXMXAXMASX
-In this word search, XMAS occurs a total of 18 times; here's the same word search again, but where letters not involved in any XMAS have been replaced with .:
+Dans cette recherche de mots, XMASse produit un total de 18fois ; voici à nouveau la même recherche de mots, mais où les lettres non impliquées dans aucune XMASont été remplacées par .:
 
 ....XXMAS.
 .SAMXMS...
@@ -35,4 +35,4 @@ S.S.S.S.SS
 .A.A.A.A.A
 ..M.M.M.MM
 .X.X.XMASX
-Take a look at the little Elf's word search. How many times does XMAS appear?
+Jetez un œil au mot caché du petit lutin. Combien de fois XMASapparaît-il ?
